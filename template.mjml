@@ -61,7 +61,13 @@
   <mj-body class="body">
     <mj-container background-color="#F0F8FF">
       <mj-wrapper border="2px solid #004B23">
-        
+
+      <mj-hero>
+        /* background-url="" />
+        background-size="cover"
+        background-repeat="no-repeat"> */
+      </mj-hero>
+
       <!-- Begin View in browser section -->
       <mj-section background-color="#0E9543">
         
@@ -174,13 +180,21 @@
       </mj-section>
 
       <!-- Begin Image section -->
-      <mj-section
-        background-url="https://rwebaz.github.io/MJML-Lessons-Project/assets/img/png/5-Venmo-Trf-Placard-Returns-6-Rwebaz-030118-635-x-477.png"
-        background-size="cover"
-        background-repeat="no-repeat">
 
-      </mj-section>
+      <mj-section background-color="#F0F8FF">
+        <mj-column width="full">
+          <mj-spacer height="1%" />
       
+        <mj-image
+            src="https://rwebaz.github.io/MJML-Lessons-Project/assets/img/png/5-Venmo-Trf-Placard-Returns-6-Rwebaz-030118-635-x-477.png"
+            alt="Transfer Five Through Venmo, Get Six Campaign"
+            width="477"
+            border-radius="3"
+            href="https://www.venmo.com/i/rwebaz" />
+
+        </mj-column>
+      </mj-section>
+
       <!-- Begin two columns section -->
 
       <mj-section background-color="#white">
