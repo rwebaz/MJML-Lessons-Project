@@ -1,0 +1,278 @@
+<mjml>
+  <mj-head>
+
+    <mj-attributes>
+
+      <mj-text color="#000" background-color="#FFF8DC" title="black on cornsilk" padding="1%" />
+
+      <mj-button background-color="#B1500A" color="#fff" font-size="18" padding-bottom="25" target="_blank" />
+
+      <!-- Alt Button: background-color="#F63A4D" color="#fff" font-size="14" padding-bottom="25" -->
+      <!-- Alt Button: background-color="#F45E43" color="#fff" font-size="14" padding-bottom="25" -->
+
+      <mj-class name="green-forest" color="#004B23" />
+      <mj-class name="green-kelly-light" color="#0E9543" />
+      <mj-class name="red-tulip" color="#CC3333" />
+      <mj-class name="blue-sky-luster" color="#AFD8CD" />
+      <mj-class name="gold-ashley" color="#CC6600" />
+
+      <mj-class name="corn-silk" color="#FFF8DC" />
+      <mj-class name="wheat" color="#F5DEB3" />
+      
+      <mj-class name="blue-alice" color="#F0F8FF" />
+      <mj-class name="copper" color="#B1500A" />
+
+      <mj-class name="unknown-one" color="#F0F0F0" />
+      <mj-class name="unknown-two" color="#525252" />
+      <mj-class name="unknown-three" color="#F45E43" />
+      
+      <mj-class name="extra-small" font-size="9px" />
+      <mj-class name="medium" font-size="12px" />
+      <mj-class name="extra-large" font-size="24px" />
+      <mj-class name="super-large" font-size="40px" />
+
+      <mj-class name="green-grove" border-radius="5" border-color="#004B23" border-style-"groove" />
+      
+      <mj-all font-family="sans-serif" font-size="16" color="#626262" />
+      
+    </mj-attributes>
+
+    <mj-style>
+      .heading {
+      text-align: center;
+      font-family: Helvetica Neue;
+      font-style: italic;
+      font-size: 20;
+      color: #626262;
+      padding-top: 15;
+      }
+
+      .body {
+        padding: 1%;
+      }
+    </mj-style>
+
+  </mj-head>
+
+  <mj-body class="body">
+    <mj-container background-color="#F0F8FF">
+      <mj-wrapper border="2px solid #004B23">
+        
+      <!-- Begin View in browser section -->
+      <mj-section background-color="#0E9543">
+        
+        <mj-column width="600">
+          <mj-spacer height="1%" />
+
+          <mj-text mj-class="red-tulip medium" align="center" font-family="san-serif" padding="1%">
+            <a href="https://mminail.github.io" title="Click to view this email message in your browser" target="_blank">Click to view in browser</a>
+          </mj-text>
+
+        </mj-column>
+      </mj-section>
+
+      <!-- Begin Page header section -->
+      <mj-section background-color="#FFF8DC">
+        <mj-column width="600">
+          <mj-spacer height="1%" />
+
+          <mj-text mj-class="super-large green-forest" align="center" font-family="Helvetica Neue" padding="1%">
+            
+            <p>
+              <span>Need Mo Ven?</span>
+            </p>
+            
+          </mj-text>
+
+          <mj-button href="https://mminail.github.io">
+            <p>
+              <span title="Click to Learn More">Learn More</span>
+            </p>
+          </mj-button>
+
+        </mj-column>
+
+        <mj-column width="600">
+          <mj-spacer height="1%" />
+
+          <mj-text align="left" font-family="Sans-serif" padding="1%">
+            <p>
+              <span>Hello:</span>
+            </p>
+
+            <p>
+              <span>We are testing our new XML-based, terminal email program today.</span>
+            </p>
+
+            <p>
+              <span>If you wish not to received these emails for evaluation, please opt-out by replying directly to this message with the subject line ...</span>
+            </p>
+
+            <p>
+              <span>"Please opt me out. Thank you."</span>
+            </p>
+
+            <p>
+              <span>And, your email address will be removed from our broadcast list.</span>
+            </p>
+
+            <p>
+              <span>Thank you for your evaluation.</span>
+            </p>
+
+            <p>
+              <span>Your feedback is greatly appreciated.</span>
+            </p>
+
+            <p>
+              <span>Robert.</span>
+            </p>
+          </mj-text>
+
+          <mj-divider mj-class="green-grove"></mj-divider>
+
+        </mj-column>
+      </mj-section>
+
+      <!-- Begin Content section -->
+      <mj-section background-color="#F5DEB3">
+        <mj-column width="600">
+          <mj-spacer height="1%" />
+
+          <mj-text mj-class="green-forest super-large" align="center" font-family="Helvetica Neue">
+            
+            <p>
+              <span>Our Story</span>
+            </p>
+              
+          </mj-text>
+
+          <mj-button href="https://mminail.github.io">
+            <p>
+              <span title="Click to Learn More">Learn More</span>
+            </p>
+          </mj-button>
+
+          <mj-text padding="1%">
+            <p>
+              <span>We are a Crypto Currency manufacturer.</span>
+            </p>
+
+            <p>
+              <span>We specialize in the medical field, though our coin is expected to be used throughout society including the new Interstate turnpike between Phoenix and Las Vegas.</span>
+            </p>
+
+          </mj-text>
+
+          <mj-divider mj-class="green-grove"></mj-divider>
+
+        </mj-column>
+      </mj-section>
+
+      <!-- Begin Image section -->
+      <mj-section
+        background-url="https://rwebaz.github.io/Medcoin-Crypto-Currency-Project/assets/img/png/5-Venmo-Trf-Placard-Returns-6-Rwebaz-030118.png"
+        background-size="cover"
+        background-repeat="no-repeat">
+
+        <mj-column width="600">
+          <mj-spacer height="1%" />
+
+            
+
+            <mj-button href="https://mminail.github.io">
+              <p>
+                <span title="Click to Learn More">Learn More</span>
+              </p>
+            </mj-button>
+
+            <mj-text >
+
+              <p class="heading">
+                <span>Additional Text Here</span>
+              </p>
+            
+          </mj-text>
+
+        </mj-column>
+      </mj-section>
+      
+      <!-- Begin two columns section -->
+
+      <mj-section background-color="#white">
+        <mj-column>
+      
+          <mj-text>
+            <p>
+              <span>Text above the image.</span>
+            </p>
+          </mj-text>
+          
+          <mj-image
+            src="https://rwebaz.github.io/Medcoin-Crypto-Currency-Project/assets/img/png/1-Ether-User-Name.png"
+            alt="This is a placeholder for the image"
+            width="250"
+            border-radius="3"
+            href="#" />
+
+          <mj-text>
+            <p>
+              <span>Text below the image.</span>
+            </p>
+          </mj-text>
+
+        </mj-column>
+        
+        <mj-column>
+
+          <mj-text>
+            <p>
+              <span>Text above the image.</span>
+            </p>
+          </mj-text>
+          
+          <mj-image
+            src="https://rwebaz.github.io/Medcoin-Crypto-Currency-Project/assets/img/png/1-Ether-User-Name.png"
+            alt="This is a placeholder for the image"
+            width="250"
+            border-radius="3"
+            href="#" />
+         
+          <mj-text>
+            <p>
+              <span>Text below the image.</span>
+            </p>
+          </mj-text>
+
+        </mj-column>
+      </mj-section>
+
+      <!-- Begin footer section -->
+      <mj-section background-color="#fff">
+        <mj-column width="600">
+          <mj-spacer height="1%" />
+          
+          <mj-text mj-class="red-tulip medium" align="center" font-family="san-serif" padding="1%">
+            <a href="https://mminail.github.io" title="Click to visit The Medcoin™ Gazette" target="_blank">The Medcoin™ Gazette</a>
+          </mj-text>
+
+          <mj-social
+            display="facebook instagram twitter"
+            font-size="0"
+            icon-size="16px"
+            padding="0"
+            facebook-href="https://fb.me/medcoin"
+            instagram-href="https://instagram.com/rwebaz"
+            twitter-href="https://twitter.com/medcoin" />
+          
+          <mj-text mj-class="red-tulip medium" align="center" font-family="san-serif" padding="1%">
+            <a href="https://mminail.github.io" title="Click to Opt In/Opt Out of future broadcasts" target="_blank">Opt In/Opt Out</a>
+          </mj-text>
+
+        </mj-column>
+      </mj-section>
+
+      </mj-wrapper>
+    </mj-container>
+  </mj-body>
+</mjml>
