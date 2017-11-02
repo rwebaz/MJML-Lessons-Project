@@ -14,7 +14,7 @@ navigation_weight: 1
 - TOC
 {:toc}
 
-**Note**. The above **Live** rendition of the **Medcoin™ Tangerine Copper Logo Badge** is an `( .svg )` image file set to the dimensions of 120.00 px X 120.00 px.
+**Note**. The above **Live** rendition of the **Flammarion Logo Badge** is an `( .svg )` image file set to the dimensions of 120.00 px X 120.00 px.
 
 ## Subtitle
 
@@ -24,4 +24,4 @@ More to come ...
 
 ### External Sources
 
-- [Project Source Links](https://mminail.github.io/Medcoin/Source-MJML-Links.htm){:title="Click to Visit the Source Links page of the MJML Responsive Email Lessons Project at GitHub pages"}{:target="_blank"} page of the MJML Responsive Email Lessons Project. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+- [Project Source Links](https://mminail.github.io/MJML/Source-MJML-Links.htm){:title="Click to Visit the Source Links page of the MJML Responsive Email Lessons Project at GitHub pages"}{:target="_blank"} page of the MJML Responsive Email Lessons Project. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
