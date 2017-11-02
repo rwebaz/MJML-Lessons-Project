@@ -23,6 +23,10 @@ The reader will be hyperlinked to the bottom of the page directly to the referen
 
 {{ site.description }}
 
+### Tagline
+
+{{site.tagline}}
+
 ## Sources and Uses
 
 The source and use of 3rd party materials in the creation of this **Markdown** page is greatly appreciated.

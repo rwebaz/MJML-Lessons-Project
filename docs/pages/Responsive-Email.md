@@ -5,9 +5,7 @@ navigation_weight: 9
 ---
 # Responsive Email
 
-{{ site.tagline }}
-
-The Mail Jet Markup Language, or **MJML** is an xml formatted, html rendered responsive email framework written in node.
+{{ site.description }}
 
 {% include toc-flammarion.md %}
 
@@ -23,15 +21,27 @@ From the Terminal prompt on your development machine ...
 
 Type the following command
 
+```liquid
+{% raw %}
 npm i -g npm
+{% endraw %}
+```
 
 Check the new version of npm
 
+```liquid
+{% raw %}
 npm --version
+{% endraw %}
+```
 
 Returns
 
+```liquid
+{% raw %}
 5.5.1
+{% endraw %}
+```
 
 ### Update MJML Responsive Email
 
@@ -39,15 +49,27 @@ Next, update ( or, install initially ) the global copy of MJML Responsive Email
 
 Type the following command
 
+```liquid
+{% raw %}
 npm i -g mjml
+{% endraw %}
+```
 
 Check the new version of mjml
 
+```liquid
+{% raw %}
 mjml --version
+{% endraw %}
+```
 
 Returns
 
+```liquid
+{% raw %}
 3.3.5
+{% endraw %}
+```
 
 Restart your Terminal to populate the changes.
 

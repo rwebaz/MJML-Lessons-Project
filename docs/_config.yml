@@ -6,8 +6,8 @@
 theme: "jekyll-theme-cayman"
 # repository: MMINAIL/mminail.github.io
 title: "MJML-Lessons-Project"
-tagline: "A GitHub repo of Lessons and Articles that emphasize the Mail Jet Markdown Language"
-description: "A GitHub repo of Lessons and Articles that emphasize the Mail Jet Markdown Language"
+tagline: "A GitHub repo of Lessons and Articles that emphasize the Mail Jet Markup Language"
+description: "The Mail Jet Markup Language, or **MJML** is an xml formatted, html rendered responsive email framework written in node."
 twitter:
     username: "mminail"
 author:
