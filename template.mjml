@@ -1,4 +1,4 @@
-<mjml>
+<mjml background-color="#F0F8FF">
   <mj-head>
 
     <mj-attributes>
@@ -52,6 +52,10 @@
       }
     </mj-style>
 
+    <mj-preview>Need Mo Ven?</mj-preview>
+
+    <mj-title>Need Mo Ven?</mj-title>
+
   </mj-head>
 
   <mj-body class="body">
@@ -61,7 +65,7 @@
       <!-- Begin View in browser section -->
       <mj-section background-color="#0E9543">
         
-        <mj-column width="600">
+        <mj-column width="full">
           <mj-spacer height="1%" />
 
           <mj-text mj-class="red-tulip medium" align="center" font-family="san-serif" padding="1%">
@@ -171,37 +175,19 @@
 
       <!-- Begin Image section -->
       <mj-section
-        background-url="https://rwebaz.github.io/Medcoin-Crypto-Currency-Project/assets/img/png/5-Venmo-Trf-Placard-Returns-6-Rwebaz-030118.png"
+        background-url="https://rwebaz.github.io/MJML-Lessons-Project/assets/img/png/5-Venmo-Trf-Placard-Returns-6-Rwebaz-030118-635-x-477.png"
         background-size="cover"
         background-repeat="no-repeat">
 
-        <mj-column width="600">
-          <mj-spacer height="1%" />
-
-            
-
-            <mj-button href="https://mminail.github.io">
-              <p>
-                <span title="Click to Learn More">Learn More</span>
-              </p>
-            </mj-button>
-
-            <mj-text >
-
-              <p class="heading">
-                <span>Additional Text Here</span>
-              </p>
-            
-          </mj-text>
-
-        </mj-column>
       </mj-section>
       
       <!-- Begin two columns section -->
 
       <mj-section background-color="#white">
-        <mj-column>
-      
+        <mj-group>
+        <mj-column width="50%">
+          <mj-spacer height="1%" />
+
           <mj-text>
             <p>
               <span>Text above the image.</span>
@@ -209,7 +195,7 @@
           </mj-text>
           
           <mj-image
-            src="https://rwebaz.github.io/Medcoin-Crypto-Currency-Project/assets/img/png/1-Ether-User-Name.png"
+            src="https://rwebaz.github.io/MJML-Lessons-Project/assets/img/png/2-Venmo-User-Name-Old-Hold-Placard-900-x-1200.png"
             alt="This is a placeholder for the image"
             width="250"
             border-radius="3"
@@ -223,7 +209,8 @@
 
         </mj-column>
         
-        <mj-column>
+        <mj-column width="50%">
+          <mj-spacer height="1%" />
 
           <mj-text>
             <p>
@@ -232,7 +219,34 @@
           </mj-text>
           
           <mj-image
-            src="https://rwebaz.github.io/Medcoin-Crypto-Currency-Project/assets/img/png/1-Ether-User-Name.png"
+            src="https://rwebaz.github.io/MJML-Lessons-Project/assets/img/png/1-Ether-User-Name-Rwebaz-Hold-Placard-900-x-1200.png"
+            alt="This is a placeholder for the image"
+            width="250"
+            border-radius="3"
+            href="#" />
+         
+          <mj-text>
+            <p>
+              <span>Text below the image.</span>
+            </p>
+          </mj-text>
+
+        </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section background-color="#white">
+        <mj-column width="600">
+          <mj-spacer height="1%" />
+
+          <mj-text>
+            <p>
+              <span>Text above the image.</span>
+            </p>
+          </mj-text>
+          
+          <mj-image
+            src="https://rwebaz.github.io/MJML-Lessons-Project/assets/img/png/9-Ether-Sign-Rwebaz-640-x-400.png"
             alt="This is a placeholder for the image"
             width="250"
             border-radius="3"
@@ -257,13 +271,15 @@
           </mj-text>
 
           <mj-social
-            display="facebook instagram twitter"
+            display="facebook instagram google twitter"
             font-size="0"
             icon-size="16px"
             padding="0"
-            facebook-href="https://fb.me/medcoin"
+            facebook-href="https://business.facebook.com/Medcoin"
             instagram-href="https://instagram.com/rwebaz"
+            google-href="https://plus.google.com/u/0/collection/8UH0mB"
             twitter-href="https://twitter.com/medcoin" />
+            
           
           <mj-text mj-class="red-tulip medium" align="center" font-family="san-serif" padding="1%">
             <a href="https://mminail.github.io" title="Click to Opt In/Opt Out of future broadcasts" target="_blank">Opt In/Opt Out</a>
