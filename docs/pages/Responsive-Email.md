@@ -7,7 +7,7 @@ navigation_weight: 9
 
 {{ site.tagline }}
 
-**MJML** is an xml formatted, html rendered responsive email framework written in node.
+The Mail Jet Markup Language, or **MJML** is an xml formatted, html rendered responsive email framework written in node.
 
 {% include toc-flammarion.md %}
 
