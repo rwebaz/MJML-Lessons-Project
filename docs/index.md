@@ -3,13 +3,13 @@ title: Home Page
 layout: default
 navigation_weight: 1
 ---
-# MJML Responsive Email Lessons Project Home Page
+# MJML Lessons Project Home Page
 
-More to come ...
+{{ site.description }}
 
 ## Table O Contents
 
-![Medcoin™ Tangerine Copper Logo Badge](assets/img/svg/MMINAIL-Medcoin-Logo-Badge-Stitch-Circle-Trnsp-Tangerine-Copper-543-x-543.svg){:width="120px"}
+![Flammarion Logo Badge](assets/img/svg/MMI-Medmj-Org-Got-Tree-Flammarion-Person-Through-Celestial-Sphere-circle-543-x-543.svg){:width="120px"}
 
 - TOC
 {:toc}
