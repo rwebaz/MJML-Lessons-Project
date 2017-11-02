@@ -84,7 +84,6 @@
       <!-- Begin Page header section -->
       <mj-section background-color="#FFF8DC">
         <mj-column width="600">
-          <mj-spacer height="1%" />
 
           <mj-text mj-class="super-large green-forest" align="center" font-family="Helvetica Neue" padding="1%">
             
@@ -147,7 +146,6 @@
       <!-- Begin Content section -->
       <mj-section background-color="#F5DEB3">
         <mj-column width="600">
-          <mj-spacer height="1%" />
 
           <mj-text mj-class="green-forest super-large" align="center" font-family="Helvetica Neue">
             
@@ -181,7 +179,8 @@
 
       <!-- Begin Image section -->
 
-      <mj-section background-color="#F0F8FF">
+      <mj-section background-color="#FFF8DC">
+        <!-- mj-section alt background-color="#F0F8FF" -->
         <mj-column width="full">
           <mj-spacer height="1%" />
       
@@ -191,7 +190,9 @@
             width="477"
             border-radius="3"
             href="https://www.venmo.com/i/rwebaz" title="Click to open up your Venmo account today" target="blank" />
-
+        
+        <mj-spacer height="1%" />
+        
         <mj-text>
           <p>
             <span>I just read a story where a dude raised $3,000 cash over at Venmo by holding up a "Need Beer Money" sign at a college football game.</span>
@@ -211,14 +212,13 @@
           </p>
         </mj-text>
 
-        <mj-spacer height="1%" />
-
         </mj-column>
       </mj-section>
 
       <!-- Begin two columns section -->
 
-      <mj-section background-color="#white">
+      <mj-section background-color="#F5DEB3">
+      <!-- mj-section alt background-color="white" -->
         <mj-group>
         <mj-column width="50%">
           
@@ -253,12 +253,15 @@
             href="https://www.venmo.com/i/rwebaz" title="Click to open up your Venmo account today" target="blank" />
 
         </mj-column>
+        
         </mj-group>
       </mj-section>
 
-      <mj-section background-color="#white">
-        <mj-column width="600">
-          <mj-spacer height="1%" />
+      <mj-section background-color="#FFF8DC">
+      <!-- mj-section alt background-color="white" -->
+        <mj-column width="full">
+
+          <mj-divider mj-class="green-grove"></mj-divider>
 
           <mj-text>
             <p>
@@ -266,18 +269,31 @@
             </p>
 
             <p>
-              <span>It basically says, if you transfer $5 via Venmo today, you'll get six coins at #ICO on March 1st.</span>
+              <span>Ideally, I would like to say ...</span>
+            </p>
 
-              <span>That's the target date for floating our Medcoin™ crypto currency.</span>
+            <p>
+              <span>"If you transfer $5 via Venmo today, you'll get six coins at #ICO on March 1st."</span>
+            </p>
 
-              <span>But, I'll probably just use the cash to pay for the annual reporting fee ($45) for the corporation that is due on October 31st.</span>
-              
+            <p>
+              <span>But, I can't say that just yet.</span>
+            </p>
+
+            <p>
+              <span>March 1st is simply the "target" date for floating our Medcoin™ crypto currency.</span>
+            </p>
+
+            <p>
+              <span>I'll probably just use the cash to pay for the annual reporting fee ($45) for the corporation that is due on October 31st.</span>
+            </p>
+
+            <p>
               <span>And, maybe to pay for another year of Parallels bridge software ($49) for my MacBook Pro so I can continue to use the Windows software.</span>
+            </p>
 
+            <p>
               <span>Now, that's better than "beer money", isn't it?</span>
-
-              <span>Robert</span>
-
             </p>
           </mj-text>
           
@@ -287,14 +303,35 @@
             width="400"
             border-radius="3"
             href="https://www.venmo.com/i/rwebaz" title="Click to open up your Venmo account today" target="blank" />
+
+          <mj-divider mj-class="green-grove"></mj-divider>
          
           <mj-text>
             <p>
-              <span>P.S. Stay tuned. We've had to delay our #ICO in the past due to technical difficulties. But, we are determined to make our new deadline stick this time.</span>
+              <span>P.S. Stay tuned. We've had to delay our #ICO in the past due to technical difficulties.</span>
+            </p>
+
+            <p>
+              <span>But, we are determined to make our new deadline stick this time.</span>
+            </p>
+
+            <p>
               <span>Thank you for your spare cash contributions.</span>
+            </p>
+
+            <p>
               <span>Hopefully, we will be able to reciprocate in coin.</span>
+            </p>
+
+            <p>
               <span>But, there is no guarantee we will be able to float our #ICO on time.</span>
-              <span>We may have to register our "offer" with the SEC first.
+            </p>
+
+            <p>
+              <span>We may have to register our "offer" with the <a href="https://medmj.us/VirtualMedcoin" title="Click to Visit the Medcoin™ Concept Library" target="_blank">SEC</a> first.</span>
+            </p>
+
+            <p>
               <span>Therefore, please gift responsibly.</span>
             </p>
           </mj-text>
@@ -308,7 +345,7 @@
           <mj-spacer height="1%" />
           
           <mj-text mj-class="red-tulip medium" align="center" font-family="san-serif" padding="1%">
-            <a href="https://mminail.github.io" title="Click to visit The Medcoin™ Gazette" target="_blank">The Medcoin™ Gazette</a>
+            <a href="https://rwebaz.github.io/Medcoin-Crypto-Currency-Project/" title="Click to Visit the Medcoin™ Concept Library" target="_blank">Medcoin™ Concept Library</a>
           </mj-text>
 
           <mj-social
@@ -321,11 +358,6 @@
             google-href="https://plus.google.com/u/0/collection/8UH0mB"
             twitter-href="https://twitter.com/medcoin" />
             
-          
-          <mj-text mj-class="red-tulip medium" align="center" font-family="san-serif" padding="1%">
-            <a href="https://mminail.github.io" title="Click to Opt In/Opt Out of future broadcasts" target="_blank">Opt In/Opt Out</a>
-          </mj-text>
-
         </mj-column>
       </mj-section>
 
