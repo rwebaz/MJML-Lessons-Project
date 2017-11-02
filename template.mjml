@@ -38,7 +38,7 @@
     </mj-attributes>
 
     <mj-style>
-      .heading {
+      .subtitle {
       text-align: center;
       font-family: Helvetica Neue;
       font-style: italic;
@@ -75,7 +75,7 @@
           <mj-spacer height="1%" />
 
           <mj-text mj-class="red-tulip medium" align="center" font-family="san-serif" padding="1%">
-            <a href="https://mminail.github.io" title="Click to view this email message in your browser" target="_blank">Click to view in browser</a>
+            <a href="https://mminail.github.io/Mailchimp/mail-chimp-one.htm" title="Click to view this email message in your browser" target="_blank">Click to view in browser</a>
           </mj-text>
 
         </mj-column>
@@ -190,7 +190,28 @@
             alt="Transfer Five Through Venmo, Get Six Campaign"
             width="477"
             border-radius="3"
-            href="https://www.venmo.com/i/rwebaz" />
+            href="https://www.venmo.com/i/rwebaz" title="Click to open up your Venmo account today" target="blank" />
+
+        <mj-text>
+          <p>
+            <span>I just read a story where a dude raised $3,000 cash over at Venmo by holding up a "Need Beer Money" sign at a college football game.</span>
+          </p>
+
+          <p>
+            <span>The game was televised on a Saturday in Sept of #2016.</span>
+            <span>Venmo even sent ( transferred ) to the guy $50 extra for the free advertising!</span>
+          </p>
+
+          <p>
+            <span>Notice the "V" for Venmo symbol on the original sign and his Venmo address.</span>
+          </p>
+
+          <p>
+            <span>Well, inspired by that, I used the GIMP photo editor to do this ...</span>
+          </p>
+        </mj-text>
+
+        <mj-spacer height="1%" />
 
         </mj-column>
       </mj-section>
@@ -200,50 +221,36 @@
       <mj-section background-color="#white">
         <mj-group>
         <mj-column width="50%">
-          <mj-spacer height="1%" />
-
+          
           <mj-text>
-            <p>
-              <span>Text above the image.</span>
+            <p class="subtitle">
+              <span>Original Placard</span>
             </p>
           </mj-text>
           
           <mj-image
             src="https://rwebaz.github.io/MJML-Lessons-Project/assets/img/png/2-Venmo-User-Name-Old-Hold-Placard-900-x-1200.png"
-            alt="This is a placeholder for the image"
+            alt="Old Venmo Placard"
             width="250"
             border-radius="3"
-            href="#" />
-
-          <mj-text>
-            <p>
-              <span>Text below the image.</span>
-            </p>
-          </mj-text>
+            href="https://www.venmo.com/i/rwebaz" title="Click to open up your Venmo account today" target="blank" />
 
         </mj-column>
         
         <mj-column width="50%">
-          <mj-spacer height="1%" />
 
           <mj-text>
-            <p>
-              <span>Text above the image.</span>
+            <p class="subtitle">
+              <span>Edited Placard</span>
             </p>
           </mj-text>
           
           <mj-image
             src="https://rwebaz.github.io/MJML-Lessons-Project/assets/img/png/1-Ether-User-Name-Rwebaz-Hold-Placard-900-x-1200.png"
-            alt="This is a placeholder for the image"
+            alt="New Venmo Placard"
             width="250"
             border-radius="3"
-            href="#" />
-         
-          <mj-text>
-            <p>
-              <span>Text below the image.</span>
-            </p>
-          </mj-text>
+            href="https://www.venmo.com/i/rwebaz" title="Click to open up your Venmo account today" target="blank" />
 
         </mj-column>
         </mj-group>
@@ -255,20 +262,40 @@
 
           <mj-text>
             <p>
-              <span>Text above the image.</span>
+              <span>So, what does the above graphic represent?</span>
+            </p>
+
+            <p>
+              <span>It basically says, if you transfer $5 via Venmo today, you'll get six coins at #ICO on March 1st.</span>
+
+              <span>That's the target date for floating our Medcoin™ crypto currency.</span>
+
+              <span>But, I'll probably just use the cash to pay for the annual reporting fee ($45) for the corporation that is due on October 31st.</span>
+              
+              <span>And, maybe to pay for another year of Parallels bridge software ($49) for my MacBook Pro so I can continue to use the Windows software.</span>
+
+              <span>Now, that's better than "beer money", isn't it?</span>
+
+              <span>Robert</span>
+
             </p>
           </mj-text>
           
           <mj-image
             src="https://rwebaz.github.io/MJML-Lessons-Project/assets/img/png/9-Ether-Sign-Rwebaz-640-x-400.png"
-            alt="This is a placeholder for the image"
-            width="250"
+            alt="Cropped Send Ether Sign"
+            width="400"
             border-radius="3"
-            href="#" />
+            href="https://www.venmo.com/i/rwebaz" title="Click to open up your Venmo account today" target="blank" />
          
           <mj-text>
             <p>
-              <span>Text below the image.</span>
+              <span>P.S. Stay tuned. We've had to delay our #ICO in the past due to technical difficulties. But, we are determined to make our new deadline stick this time.</span>
+              <span>Thank you for your spare cash contributions.</span>
+              <span>Hopefully, we will be able to reciprocate in coin.</span>
+              <span>But, there is no guarantee we will be able to float our #ICO on time.</span>
+              <span>We may have to register our "offer" with the SEC first.
+              <span>Therefore, please gift responsibly.</span>
             </p>
           </mj-text>
 
