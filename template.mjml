@@ -69,7 +69,9 @@
       </mj-hero>
 
       <!-- Begin View in browser section -->
-      <mj-section background-color="#0E9543">
+      <mj-section background-color="#F5DEB3">
+      <!-- mj-section alt background-color="#0E9543" -->
+      
         
         <mj-column width="full">
           <mj-spacer height="1%" />
@@ -340,9 +342,9 @@
       </mj-section>
 
       <!-- Begin footer section -->
-      <mj-section background-color="#fff">
-        <mj-column width="600">
-          <mj-spacer height="1%" />
+      <mj-section background-color="#F5DEB3">
+      <!-- mj-section alt background-color="#fff" -->
+        <mj-column width="full">
           
           <mj-text mj-class="red-tulip medium" align="center" font-family="san-serif" padding="1%">
             <a href="https://rwebaz.github.io/Medcoin-Crypto-Currency-Project/" title="Click to Visit the Medcoin™ Concept Library" target="_blank">Medcoin™ Concept Library</a>
