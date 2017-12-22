@@ -1,10 +1,10 @@
 # Site settings
 #
-# Date of this Update to Config-template file ver 11-02-2017 AM
+# Date of this Update to Config-template file ver 12-18-2017
 #
 # github: [metadata]
 theme: "jekyll-theme-cayman"
-# repository: MMINAIL/mminail.github.io
+# repository: https://www.github.com/rwebaz/MJML-Lessons-Project
 title: "MJML-Lessons-Project"
 tagline: "A GitHub repo of Lessons and Articles that emphasize the Mail Jet Markup Language"
 description: "The Mail Jet Markup Language, or **MJML** is an xml formatted, html rendered responsive email framework written in node."
