@@ -1,9 +1,12 @@
 ---
 title: Home Page
 layout: default
+excerpt: Place the introducing line of text ie.) the 'lead' here ...
+version: Home Template md Dtd 11-10-19
 navigation_weight: 1
+categories: page
 ---
-# MJML Lessons Project Home Page
+## MJML Lessons Project Home Page
 
 {{ site.description }}
 
@@ -66,4 +69,8 @@ Expound the solution ...
 
 ### External Sources
 
-- [Project Source Links](https://mminail.github.io/MJML/Source-MJML-Links.htm){:title="Click to Visit the Source Links page of the MJML Responsive Email Lessons Project at GitHub pages"}{:target="_blank"} page of the MJML Responsive Email Lessons Project. Published by © 2000 - 2018 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+- [Project Source Links](https://mminail.github.io/MJML/Source-MJML-Links.htm){:title="Click to Visit the Source Links page of the MJML Responsive Email Lessons Project at GitHub pages"}{:target="_blank"} page of the MJML Responsive Email Lessons Project. Published by © 2000 - 2020 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+
+**Note**. Please support the authors and publishers who aggregate the **Source Links** for our projects at [Patreon](https://www.patreon.com/MMINAIL){:title='Click to Visit the Landing page for our Patreon account'}{:target='_blank'}
+
+**Note**. This page crafted with {{ page.version }}.
