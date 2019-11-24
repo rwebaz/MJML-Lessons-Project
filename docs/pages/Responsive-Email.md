@@ -1,17 +1,18 @@
 ---
 title: Responsive Email
 layout: default
-navigation_weight: 9
+excerpt: How to Install MJML Responsive Email in Mac Os High Sierra ...
+hint: Place the intro paragraph ie.) the 'hypothesis' here ...
+repo: MLML-Lessons-Project
+ver_date: 11-20-19
+navigation_weight: 8
+categories: page
 ---
-# Responsive Email
+{% include toc.md %}
 
-{{ site.description }}
+## Mail Jet Markup Language
 
-{% include toc-flammarion.md %}
-
-## Installation
-
-How to Install MJML Responsive Email in High Sierra
+> **Hint**. {{ page.hint }}
 
 ### Update Node Package Manager
 
@@ -71,10 +72,16 @@ Returns
 {% endraw %}
 ```
 
-Restart your Terminal to populate the changes.
+## Last Subtitle
 
-{% include sources-and-uses.md %}
+More to come ...
 
-### External Sources
+***
 
-- The [Project Source Links](https://mminail.github.io/MJML/Source-MJML-Links.htm){:title="Click to Visit the Source Links page of the MJML Lessons Project at GitHub pages"}{:target="_blank"} page of the MJML Lessons Project. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+**Note**. The above synopsis was derived from an article written by Blank Author [[1](#BLANKAUTHOR){:.red}].
+
+1. {:#BLANKAUTHOR}[A Narrative of Psychology by Blank Author, Jan #1999](http://cowles.yale.edu/sites/default/files/files/pub/d20/d2069.pdf){:title="Click to Visit the pdf source"}{:target="_blank"}
+
+***
+
+{% include patreon-link.md %}
